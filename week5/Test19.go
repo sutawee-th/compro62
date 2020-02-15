@@ -9,4 +9,5 @@ func main() {
 	a[0] = 10
 	fmt.Println(a, b)
 	fmt.Println("-----------")
+	c := []int{1, 2, 3}
 }
