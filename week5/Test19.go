@@ -8,4 +8,5 @@ func main() {
 	fmt.Println(a, b)
 	a[0] = 10
 	fmt.Println(a, b)
+	fmt.Println("-----------")
 }
