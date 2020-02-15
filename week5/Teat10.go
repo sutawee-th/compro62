@@ -7,4 +7,5 @@ func main() {
 	fmt.Println(alphabets)
 	fmt.Println(alphabets[0][1])
 	numbers := [2][3][2]int{
+		{
 }
