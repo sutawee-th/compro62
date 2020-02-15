@@ -9,4 +9,5 @@ func main() {
 	numbers := [2][3][2]int{
 		{
 			{1, 2},
+		}
 }
