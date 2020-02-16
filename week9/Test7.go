@@ -10,3 +10,4 @@ func (std *student) growUp(i int) {
 	std.age = std.age + i
 }
 
+func main() {
