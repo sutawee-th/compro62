@@ -5,5 +5,6 @@ type myError struct {
 }
 
 func say(word string) error {
+	if word == "hi" {
 
 }
