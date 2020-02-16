@@ -14,4 +14,5 @@ func main() {
 	(*p).age = 18
 	p.email = "Goku@super.saiya"
 
+	fmt.Println(std)
 }
