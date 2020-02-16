@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"io"
 	"strings"
+)
 
 func main() {
 	reader := strings.NewReader("HelloWorld")
