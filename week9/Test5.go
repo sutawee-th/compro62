@@ -14,5 +14,5 @@ func (std student) introduce() {
 
 type pupil struct {
 	address string
-	pup := pupil(std: "Goku")
+	std     student
 }
