@@ -8,3 +8,4 @@ func sum(numbers ...int) int {
 	return total
 }
 
+func main() {
