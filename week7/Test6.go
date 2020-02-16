@@ -7,3 +7,4 @@ func writeLine(a ...interface{}) {
 		fmt.Println(v)
 	}
 }
+
