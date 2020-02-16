@@ -13,4 +13,5 @@ func sum(numbers ...int) int {
 func main() {
 	x := sum(1, 3, 5, 7, 9)
 	fmt.Println(x)
+
 }
