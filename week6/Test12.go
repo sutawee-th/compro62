@@ -7,4 +7,5 @@ func main() {
 ReadInput:
 	fmt.Println("type number :")
 	fmt.Scan(&a)
+	if a < 20 {
 }
