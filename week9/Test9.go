@@ -9,5 +9,5 @@ func desc(i I) {
 }
 
 func main() {
-
+	var i I
 }
