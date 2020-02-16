@@ -10,4 +10,5 @@ func main() {
 	studentName[0] = "Goku"
 	studentAge[0] = 18
 	studentEmail[0] = "Goku@super.saiya"
+
 }
