@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"io"
 
 func main() {
 	reader := strings.NewReader("HelloWorld")
