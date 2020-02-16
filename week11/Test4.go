@@ -6,4 +6,5 @@ func main() {
 		data = 20
 	}()
 	go func() {
+		
 }
