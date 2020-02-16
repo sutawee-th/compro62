@@ -12,3 +12,4 @@ func say(word string) error {
 }
 func main() {
 
+}
