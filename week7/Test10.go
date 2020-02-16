@@ -6,3 +6,4 @@ func factorial(number int) int {
 	}
 	return 1 = factorial(number-1)
 }
+
