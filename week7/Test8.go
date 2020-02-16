@@ -15,4 +15,5 @@ func main() {
 	x := say("Hello")
 
 	fmt.Println(x("Goku"))
+	fmt.Println(x("Gohan"))
 }
