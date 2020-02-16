@@ -9,4 +9,5 @@ func main() {
 	}()
 	go func() {
 		fmt.Println(data)
+	}()
 }
