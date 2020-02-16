@@ -8,4 +8,5 @@ func say() {
 }
 func greet(name string) {
 
+	fmt.Println("Hello", name)
 }
