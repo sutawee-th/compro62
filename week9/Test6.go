@@ -6,3 +6,4 @@ type student struct {
 	email string
 }
 
+func (std student) growUp(i int) {
