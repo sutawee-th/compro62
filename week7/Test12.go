@@ -6,3 +6,4 @@ func suntract(nuber *int) {
 
 func main() {
 
+}
