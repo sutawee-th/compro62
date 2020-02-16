@@ -1,14 +1,15 @@
 package main
 
-import "io"
+import (
 
 func main() {
-	reader := string.NewReader("HelloWorld")
+	reader := strings.NewReader("HelloWorld")
 	p := make([]byte, 3)
 	for {
 		n, err := reader.Read(p)
 		if err == io.EOF {
 			break
 		}
+		fmt.Println(string(p[:n]))
 	}
 }
