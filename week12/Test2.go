@@ -6,4 +6,5 @@ func main() {
 	file, err := os.Create("myFile.txt")
 	if err != nil {
 		return
+	}
 }
