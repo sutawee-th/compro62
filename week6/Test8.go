@@ -4,4 +4,5 @@ func main() {
 	i := 0
 	for {
 
+	}
 }
