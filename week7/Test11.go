@@ -1,6 +1,7 @@
 package main
 
 import "fmt"
+
 func suntract(number int) {
 	number = number - 1
 }
