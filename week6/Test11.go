@@ -16,6 +16,6 @@ func main() {
 	case 4:
 		fmt.Println("four")
 	default:
-
+		fmt.Println("unknow")
 	}
 }
