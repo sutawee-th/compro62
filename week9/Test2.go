@@ -8,3 +8,4 @@ type student struct {
 
 func main() {
 
+}
