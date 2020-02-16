@@ -6,4 +6,5 @@ func suntract(nuber *int) {
 
 func main() {
 	x := 10
+	suntract(&x)
 }
