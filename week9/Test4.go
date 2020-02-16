@@ -13,5 +13,6 @@ func (std student) introduce() {
 }
 
 func main() {
+	std := student{name: "Goku"}
 
 }
