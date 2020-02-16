@@ -9,4 +9,5 @@ ReadInput:
 	fmt.Scan(&a)
 	if a < 20 {
 		goto ReadInput
+	}
 }
