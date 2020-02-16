@@ -13,4 +13,5 @@ func greet(name string) {
 func main() {
 
 	say()
+	greet("Goku")
 }
