@@ -7,6 +7,5 @@ type student struct {
 }
 
 func (std *student) growUp(i int) {
-
 	std.age = std.age + i
 }
