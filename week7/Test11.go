@@ -5,4 +5,5 @@ func suntract(number int) {
 }
 
 func main() {
+
 }
