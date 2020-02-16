@@ -12,3 +12,4 @@ func (std *student) growUp(i int) {
 
 func main() {
 
+}
