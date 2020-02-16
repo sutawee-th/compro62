@@ -1,5 +1,6 @@
 package main
 
+import "fmt"
 func main() {
 	var studentName [10]string
 	var studentAge [10]int
