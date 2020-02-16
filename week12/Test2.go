@@ -9,4 +9,5 @@ func main() {
 	}
 	defer file.Close()
 
+	file.WriteString("Hello \n")
 }
