@@ -9,4 +9,5 @@ func factorial(number int) int {
 
 func main() {
 	fac := factorial(5)
+	fmt.Println(fac)
 }
