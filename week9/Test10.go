@@ -11,5 +11,5 @@ func say(word string) error {
 	return nil
 }
 func main() {
-
+	e1 := say("hello")
 }
