@@ -9,5 +9,5 @@ func makeEven() func() int {
 }
 
 func main() {
-
+	nextEven := makeEven()
 }
