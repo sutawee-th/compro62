@@ -17,3 +17,4 @@ type pupil struct {
 	std     student
 }
 
+func main() {
