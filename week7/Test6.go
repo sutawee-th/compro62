@@ -10,3 +10,4 @@ func writeLine(a ...interface{}) {
 
 func main() {
 
+}
