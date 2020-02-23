@@ -12,3 +12,4 @@ func readCurrentDir() {
 	}
 	defer file.Close()
 }
+
