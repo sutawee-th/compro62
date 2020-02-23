@@ -1,5 +1,7 @@
 package main
 
-func readCurrentDir() {
+import "os"
 
+func readCurrentDir() {
+	file, err := os.Create("output.txt")
 }
