@@ -4,4 +4,7 @@ import "os"
 
 func readCurrentDir() {
 	file, err := os.Create("output.txt")
+	if err != nil {
+
+	}
 }
